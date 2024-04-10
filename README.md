@@ -1,4 +1,5 @@
-Percertron is an algorithm for supervised learning of single layer binary linear classifiers. 
+<h1>Perceptron Algorithm</h1>
+Perceptron is an algorithm for supervised learning of single layer binary linear classifiers. 
     At this program, we see two different groups on the plot. 
     Perceptron Algorithm tries to classify those by the linear line. 
     There are three different datasets as I mentioned above. 
